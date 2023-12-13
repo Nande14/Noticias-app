@@ -12,16 +12,7 @@ export const Header = () => {
         paddingHorizontal: 20,
       }}
     >
-      <Image
-        source={{
-          uri: 'https://github.com/Icode-Mobile.png',
-        }}
-        style={{
-          width: 35,
-          height: 35,
-          borderRadius: 18,
-        }}
-      />
+      
       <Text
         style={{
           fontFamily: 'Rubik_700Bold',

@@ -64,19 +64,19 @@ export default function DetailsPost() {
           marginTop: 28,
         }}
       >
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum. It is a long established fact that a reader will be
-        distracted by the readable content of a page when looking at its layout.
-        The point of using Lorem Ipsum is that it has a more-or-less normal
-        distribution of letters, as opposed to using 'Content here, content
-        here', making it look like readable English.
+      A equipe por trás do React Native tem trabalhado arduamente para 
+fornecer atualizações e melhorias constantes na plataforma. Isso 
+se deve, em grande parte, à sua comunidade ativa de desenvolvedores,
+ que está sempre procurando maneiras de aprimorar a tecnologia. 
+Entre as tendências e melhorias que podemos observar estão: 
+Novas bibliotecas e componentes Ferramentas de depuração aprimoradas
+Como o React Native está moldando o futuro do desenvolvimento de 
+aplicativos.O React Native está revolucionando o desenvolvimento de 
+aplicativos móveis ao oferecer uma abordagem única para a criação de
+ interfaces de usuário nativas. Sua arquitetura flexível e o uso de
+ JavaScript como linguagem de programação tornam mais fácil para os
+ desenvolvedores criar aplicativos para iOS e Android simultaneamente. 
+Além disso, o React Native também oferece:
       </Text>
       <Text
         style={{

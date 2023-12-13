@@ -33,13 +33,15 @@ export default function Home() {
               {
                 id: 'react-native-evolution',
                 title: 'React Native está cada vez mais evoluido',
-                body: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+                body: 'A equipe por trás do React Native tem trabalhado arduamente para fornecer atualizações e melhorias constantes na plataforma, graças à sua comunidade ativa de desenvolvedores. Entre as tendências e melhorias observadas estão: novas bibliotecas e componentes, ferramentas de depuração aprimoradas. O React Native está moldando o futuro do desenvolvimento de aplicativos móveis, revolucionando-o com uma abordagem única para a criação de interfaces de usuário nativas. Sua arquitetura flexível e o uso de JavaScript como linguagem de programação facilitam aos desenvolvedores a criação de aplicativos para iOS e Android simultaneamente. Além disso, o React Native também oferece...'
+,
                 image: 'https://reactnative.dev/img/logo-og.png',
               },
               {
                 id: 'react-native-evolution-part-two',
                 title: 'React Native está cada vez mais evoluido - parte 2',
-                body: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+                body: 'A equipe por trás do React Native tem trabalhado arduamente para fornecer atualizações e melhorias constantes na plataforma, graças à sua comunidade ativa de desenvolvedores. Entre as tendências e melhorias observadas estão: novas bibliotecas e componentes, ferramentas de depuração aprimoradas. O React Native está moldando o futuro do desenvolvimento de aplicativos móveis, revolucionando-o com uma abordagem única para a criação de interfaces de usuário nativas. Sua arquitetura flexível e o uso de JavaScript como linguagem de programação facilitam aos desenvolvedores a criação de aplicativos para iOS e Android simultaneamente. Além disso, o React Native também oferece...'
+,
                 image: 'https://reactnative.dev/img/logo-og.png',
               },
             ]}
